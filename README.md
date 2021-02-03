@@ -27,8 +27,7 @@ Note: The Top Navigation bar is yellow because it's the simulator's default colo
 ## Notes
 I learned so much working on this project. I only wish I had more time to spend working on this, so I could've completed the extra features. Unfortunately, I only learned about the 6-week program recently. I was initially going to do the CSN class, but I was unable to afford it. Nonetheless, I very grateful for this opportunity to possibly join the CodePath iOS Spring 2021 6-Week program. 
 
-A challenge I overcame included this error: terminating with uncaught exception of type NSException. It turns out that the 'billAmountTextField' wasn't had extra
-Thank you for your consideration. Here's the app icon I created using Adobe Illustrator.
+A challenge I overcame included this error: terminating with uncaught exception of type NSException. It turns out that the 'billAmountTextField' wasn't connected. Thank you for your consideration. Here's the app icon I created using Adobe Illustrator.
 
 ![Tipu App Icon](https://github.com/buncat/CodePathiOSPrework/blob/main/Final%20logo.png)
     
